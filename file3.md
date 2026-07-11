@@ -3,6 +3,8 @@
 ## Sonic:
 Sonic: https://github.com/sonic-net/sonic-swss/issues/4595
 
+## wasmEdge:
+https://github.com/WasmEdge/WasmEdge/issues/344
 
 
 
@@ -38,5 +40,4 @@ https://github.com/openvinotoolkit/openvino/issues/36695
 ## Gluten:
 https://github.com/apache/gluten
 
-## wasmEdge:
-https://github.com/WasmEdge/WasmEdge/issues/344
+
