@@ -17,7 +17,12 @@ https://github.com/apache/airflow
 فيه اكتر كتير
 https://github.com/apache/ 
 
+
+
+
 فيها كذا ريبو C++ and C#
+https://github.com/apache/airflow/issues/69023 
+مشكه انا عامل عليها تعليق
 ## openvinotoolkit:
 
 https://github.com/openvinotoolkit/openvino/issues/36695
