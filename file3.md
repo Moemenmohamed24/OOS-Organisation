@@ -41,3 +41,37 @@ https://github.com/openvinotoolkit/openvino/issues/36695
 https://github.com/apache/gluten
 
 
+
+
+
+
+### we want 3 org in GSOC that will participate  , 3 org faang:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
