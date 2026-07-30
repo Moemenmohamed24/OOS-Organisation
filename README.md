@@ -7,6 +7,6 @@ https://github.com/apache/airflow/issues/69023#issuecomment-4948316933
 
 
 
-https://github.com/apache/arrow/issues/50508 
-واحده سهله جدا
+
+
 
