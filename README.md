@@ -6,7 +6,3 @@ https://github.com/apache/airflow/issues/69023#issuecomment-4948316933
 
 
 
-
-# i am work  on it now: 
-https://github.com/kubeedge/kubeedge/issues/7110
-
