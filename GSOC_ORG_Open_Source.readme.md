@@ -31,3 +31,5 @@ https://github.com/apache/gluten
 ## open suse:
 https://github.com/openSUSE/libzypp 
 
+## kubevirt:
+https://github.com/kubevirt/kubevirt/issues
