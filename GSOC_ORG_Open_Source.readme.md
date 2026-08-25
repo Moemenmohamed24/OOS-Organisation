@@ -42,3 +42,6 @@ https://github.com/orgs/fossasia/repositories
 
 ## ardupilot:
 https://github.com/ardupilot/ardupilot
+
+## internetarchive:
+https://github.com/orgs/internetarchive/repositories
