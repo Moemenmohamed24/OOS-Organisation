@@ -45,3 +45,22 @@ https://github.com/ardupilot/ardupilot
 
 ## internetarchive:
 https://github.com/orgs/internetarchive/repositories
+
+
+## cern-hsf:
+https://summerofcode.withgoogle.com/programs/2026/organizations/cern-hsf
+
+## metasploit:
+https://github.com/rapid7/metasploit-framework/pulls
+
+## aboutcode:
+https://github.com/aboutcode-org/scancode.io
+
+## rizinorg:
+https://github.com/rizinorg/cutter/issues
+
+## ceph : 
+https://github.com/ceph
+
+## PostgreSQL :
+https://www.postgresql.org/account/auth/9/?d=I2lT8qmHhiyN2Yi9jkJTmw%3D%3D%24zUI-hUrfBqjWiHk4mjsiqMsi%24FgOoeUiJrTAg-ch3ccycsg%3D%3D
