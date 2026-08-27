@@ -25,6 +25,9 @@ https://github.com/openvinotoolkit/openvino/issues/36695
 
 
 
+## <----------------------------------------------------------------------------------------------->
+
+
 ## Gluten:
 https://github.com/apache/gluten
 
@@ -95,6 +98,9 @@ https://github.com/cBioPortal/cbioportal
 
   ## PEcAn Project:
 https://github.com/pecanproject
+
+## 52°North Spatial Information Research GmbH:
+https://github.com/52North/SOS
 
 
 
